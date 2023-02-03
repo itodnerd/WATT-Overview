@@ -6,7 +6,7 @@ This repository provides an overview of all artifacts available, used in the pap
 
 WATT has been implemented in LeanStore:
 
-https://github.com/leanstore/leanstore/tree/watt
+https://github.com/leanstore/leanstore/tree/WATT
 
 ## Simulation
 
