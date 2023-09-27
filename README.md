@@ -1,6 +1,12 @@
 # WATT-Overview
 
-This repository provides an overview of all artifacts available, used in the paper WATT.
+This repository provides an overview of all artifacts available for WATT.
+
+## VLDB 2023
+
+For the VLDB 2023 you can access our [paper](https://www.vldb.org/pvldb/vol16/p3323-vohringer.pdf) and a video of an early stage of the [presentation](https://youtu.be/ZwQFDwTbqS4?).
+
+The [presentation](VLDB2023/presentation.pdf) itself and the [transcript](VLDB2023/presentation_transcript.md) can be found in the directory [VLDB2023](VLDB2023).
 
 ## Source-Code
 
